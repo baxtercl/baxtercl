@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Aldo 👋
 
-<!--
-**baxtercl/baxtercl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI and full-stack software engineer based in Santiago, Chile. I build LLM agents, RAG systems and ML models, and the applications that put them in front of real users.
 
-Here are some ideas to get you started:
+I've been writing software since 2011 and have founded several products along the way. Before moving fully into AI engineering, I spent 14 years building data and software systems for the copper mining industry, at BHP (nine years), Teck, Codelco and others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on**
+- Leading technical delivery at a mining exploration company: ML models in production, LLM-powered internal platforms and third-party API integrations.
+- Building Axel, an LLM agent-based platform, with FastAPI and LangGraph.
+- Shipping most of my work through AI-assisted development with Claude Code and Codex.
+
+**Stack**
+Python · FastAPI · TypeScript · React · Node · PostgreSQL / pgvector · LangChain / LangGraph · Docker · Git / CI/CD
+
+**Contact**
+[LinkedIn](https://www.linkedin.com/in/asaavedrareyes) · [asaavedra.com](https://www.asaavedra.com)
